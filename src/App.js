@@ -38,7 +38,7 @@ const App = () => {
           >
             Cryptoverse
             <br />
-            All rights reserved
+            Made by Samarth Hegde
           </Typography.Title>
           <Space>
             <Link to="/">Home</Link>
